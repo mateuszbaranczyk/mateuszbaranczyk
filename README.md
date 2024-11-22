@@ -6,11 +6,6 @@ Welcome to my GitHub repository! I'm a Python developer with experience in build
 - Flask
 - FastAPI
 - Docker
-- JavaScript
-- MySQL
-- Google Cloud Platform (GCP)
-- Amazon Web Services (AWS)
-- CI/CD
 
 ### Projects
 Below you can find some projects I've worked on using these technologies. 
